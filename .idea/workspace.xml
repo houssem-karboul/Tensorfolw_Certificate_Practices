@@ -4,13 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d95f43f0-e8cb-47c6-a549-6aa601350fda" name="Changes" comment="Initial commit : creating Repo using pycharm">
-      <change afterPath="$PROJECT_DIR$/C3_NLP/T1_HandsOnTokinizerAndPadding.ipynb" afterDir="false" />
+    <list default="true" id="d95f43f0-e8cb-47c6-a549-6aa601350fda" name="Changes" comment="update metadata for github previewer">
       <change afterPath="$PROJECT_DIR$/C3_NLP/T2_HandsOnSentimentClassificationUsingEmbedding.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/C3_NLP/sarcasm.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Tensorfolw_Certificate_Practices.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Tensorfolw_Certificate_Practices.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/C3_NLP/meta.tsv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/C3_NLP/vecs.tsv" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/C3_NLP/T1_HandsOnTokinizerAndPadding.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/C3_NLP/T1_HandsOnTokinizerAndPadding.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,6 +37,20 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;houssem-karboul&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="cd2d1bf7-c077-4300-9f40-d7439419182a" />
+        <option name="url" value="https://github.com/houssem-karboul/Tensorfolw_Certificate_Practices" />
+      </UrlAndAccount>
+    </option>
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
@@ -58,6 +71,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
     "last_opened_file_path": "C:/Users/Tecost/PycharmProjects/Tensorfolw_Certificate_Practices/C3_NLP",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -90,7 +104,12 @@
       <updated>1711334272964</updated>
       <workItem from="1711334274071" duration="1742000" />
       <workItem from="1711336055496" duration="2289000" />
-      <workItem from="1711338470947" duration="494000" />
+      <workItem from="1711338470947" duration="1812000" />
+      <workItem from="1711498425965" duration="7080000" />
+      <workItem from="1711545848103" duration="3331000" />
+      <workItem from="1711552689827" duration="2250000" />
+      <workItem from="1711660664738" duration="5326000" />
+      <workItem from="1712160351368" duration="2304000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit : creating Repo using pycharm">
       <option name="closed" value="true" />
@@ -100,7 +119,23 @@
       <option name="project" value="LOCAL" />
       <updated>1711334402368</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Preprocessing data : fit tokenizer + padding">
+      <option name="closed" value="true" />
+      <created>1711339637411</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1711339637411</updated>
+    </task>
+    <task id="LOCAL-00003" summary="update metadata for github previewer">
+      <option name="closed" value="true" />
+      <created>1711339738491</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1711339738491</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -109,6 +144,19 @@
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Initial commit : creating Repo using pycharm" />
-    <option name="LAST_COMMIT_MESSAGE" value="Initial commit : creating Repo using pycharm" />
+    <MESSAGE value="Preprocessing data : fit tokenizer + padding" />
+    <MESSAGE value="update metadata for github previewer" />
+    <option name="LAST_COMMIT_MESSAGE" value="update metadata for github previewer" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="jupyter-line">
+          <url>notebook://C:/Users/Tecost/PycharmProjects/Tensorfolw_Certificate_Practices/C3_NLP/T2_HandsOnSentimentClassificationUsingEmbedding.ipynb</url>
+          <line>16</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
