@@ -4,12 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d95f43f0-e8cb-47c6-a549-6aa601350fda" name="Changes" comment="update metadata for github previewer">
-      <change afterPath="$PROJECT_DIR$/C3_NLP/T2_HandsOnSentimentClassificationUsingEmbedding.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/C3_NLP/meta.tsv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/C3_NLP/vecs.tsv" afterDir="false" />
+    <list default="true" id="d95f43f0-e8cb-47c6-a549-6aa601350fda" name="Changes" comment="fix files indentations">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/C3_NLP/T1_HandsOnTokinizerAndPadding.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/C3_NLP/T1_HandsOnTokinizerAndPadding.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/C3_NLP/T2_HandsOnSentimentClassificationUsingEmbedding.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/C3_NLP/T2_HandsOnSentimentClassificationUsingEmbedding.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -109,7 +106,7 @@
       <workItem from="1711545848103" duration="3331000" />
       <workItem from="1711552689827" duration="2250000" />
       <workItem from="1711660664738" duration="5326000" />
-      <workItem from="1712160351368" duration="2304000" />
+      <workItem from="1712160351368" duration="2638000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit : creating Repo using pycharm">
       <option name="closed" value="true" />
@@ -135,7 +132,23 @@
       <option name="project" value="LOCAL" />
       <updated>1711339738491</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="implement &amp; visualize word Embedding">
+      <option name="closed" value="true" />
+      <created>1712164085670</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1712164085670</updated>
+    </task>
+    <task id="LOCAL-00005" summary="fix files indentations">
+      <option name="closed" value="true" />
+      <created>1712164258967</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1712164258967</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -146,7 +159,9 @@
     <MESSAGE value="Initial commit : creating Repo using pycharm" />
     <MESSAGE value="Preprocessing data : fit tokenizer + padding" />
     <MESSAGE value="update metadata for github previewer" />
-    <option name="LAST_COMMIT_MESSAGE" value="update metadata for github previewer" />
+    <MESSAGE value="implement &amp; visualize word Embedding" />
+    <MESSAGE value="fix files indentations" />
+    <option name="LAST_COMMIT_MESSAGE" value="fix files indentations" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
